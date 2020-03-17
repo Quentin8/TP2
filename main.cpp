@@ -11,6 +11,7 @@ int main(int argc, char **argv)
       test.show();
       ConfigurationDialog* test2 = new ConfigurationDialog();
       test2->show();
+      test
 
       return app.exec();
 }
